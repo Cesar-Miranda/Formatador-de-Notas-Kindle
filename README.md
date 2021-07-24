@@ -6,7 +6,7 @@ Ele formata as notas do kindle de acordo com as normas ABNT para citação diret
 Ex.:
 [INPUT]
 
-![INPUT](https://ibb.co/mXxcsdX)
+![INPUT](ibb.co/mXxcsdX)
 
 [OUTPUT]
 
