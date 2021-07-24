@@ -5,6 +5,7 @@ Algoritmo para formatar notas do kindle de acordo com as normas ABNT para citaç
 Ex.:
 [INPUT]
 
+[//]: # "
 ==========
 A Função Social da Guerra na Sociedade Tupinambá (Fernandes, Florestan)
 - Seu destaque ou posição 542-545 | Adicionado: terça-feira, 14 de janeiro de 2020 12:01:57
@@ -26,7 +27,7 @@ A Função Social da Guerra na Sociedade Tupinambá (Fernandes, Florestan)
 
 Sua secção era plano convexa, pelo que se pode julgar pelo arco representado no quadro de Eckhout. Às vezes eles eram ornamentados com uma guarnição de ‘palmas trançadas’; tratava-se provavelmente de um mosaico [ou trançado] de palha que cobria a madeira. Cardim,* que nos dá esta indicação, ajunta com efeito que estas palmas eram de diferentes cores. As extremidades dos arcos podiam ser também adornadas com plumas”.
 ========== 
-
+"
 
 [OUTPUT]
 
