@@ -3,15 +3,14 @@
 Criei esse algoritmo quando minha companheira, após estudar para um prova, precisou realizar um trabalho com as passagens marcadas durante a leitura dos e-books no kindle. Quase cem páginas de notas demorariam um bom tempo para serem formatadas, principalmente porque as notas kindle são registradas no arquivo "MyClippings", cheias de caracteres inúteis. O algoritmo realizou o trabalho, que custaria a ela horas, em 1 segundo. 
 Ele formata as notas do kindle de acordo com as normas ABNT para citação direta e entrega as referências ao final.
 
+
 Ex.:
 [INPUT]
 
-![INPUT](ibb.co/mXxcsdX)
+[INPUT](ibb.co/mXxcsdX)
 
 [OUTPUT]
 
-
-'''
 “As plumas de suas flechas tinham, aproximadamente, um palmo de comprimento. Elas eram fendidas em duas e cada metade era aplicada ao cabo, ao qual ela era fixada por suas duas extremidades por um fio de algodão. Este tipo de emplumação, chamado de emplumação do Este do Brasil (East Brazilian feathering), é característico da maioria das tribos tupi-guarani”. (FERNANDES, Florestan. 2006. P. 542-545)
 
 
@@ -26,4 +25,3 @@ Ex.:
 
 Referências:
 FERNANDES, Florestan. A Função Social da Guerra na Sociedade Tupinambá. 3ª Ed. Biblioteca Azul, 2006.
-'''
