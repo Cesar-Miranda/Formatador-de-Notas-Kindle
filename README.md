@@ -7,7 +7,7 @@ Ele formata as notas do kindle de acordo com as normas ABNT para citação diret
 Ex.:
 [INPUT]
 
-[INPUT](ibb.co/mXxcsdX)
+<img width="200" height="100" src="Formatador-de-Notas-Kindle/exemplo kindle notas.png">
 
 [OUTPUT]
 
