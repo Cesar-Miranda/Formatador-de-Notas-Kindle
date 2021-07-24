@@ -7,7 +7,7 @@ Ele formata as notas do kindle de acordo com as normas ABNT para citação diret
 Ex.:
 [INPUT]
 
-<img width="700" height="550" src="exemplo kindle notas.png">
+<img width="800" height="680" src="exemplo kindle notas.png">
 
 [OUTPUT]
 
